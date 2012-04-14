@@ -1,3 +1,22 @@
+GOOGLE MAPS
+----------
+
+Your key is:
+0_u3vrXrWUOH3UyNbnn8G5hA7eiZDvPOrNK2IGQ
+This key is good for all apps signed with your certificate whose fingerprint is:
+49:04:93:57:10:0A:78:DA:EC:90:2D:4B:72:CD:26:97
+Here is an example xml layout to get you started on your way to mapping glory:
+              <com.google.android.maps.MapView
+                 android:layout_width="fill_parent"
+                 android:layout_height="fill_parent"
+                 android:apiKey="0_u3vrXrWUOH3UyNbnn8G5hA7eiZDvPOrNK2IGQ"
+                 />
+
+
+
+
+FLICKER
+--------
 Key:
 a723809105417a01b6441e12d60c11a6
 
