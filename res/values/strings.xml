@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, FlickrAroundActivity!</string>
+    <string name="hello">Hello! Press the button to get pics next to you</string>
     <string name="app_name">FlickrAround</string>
+    <string name="getpics">Get pics!</string>
 
 </resources>
